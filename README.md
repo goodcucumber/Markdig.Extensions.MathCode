@@ -8,4 +8,5 @@ For example, if you are using Wolfram Engine, you need "ml64i4.dll" and "Wolfram
 
 The wolframkernel executable shuold be in PATH evironment.
 
-There is a console app example in MathCodeExample folder.
+There is a console app example in MathCodeExample folder and an example input (example.md).
+Plot/Sound are converted to base64 and embedded in the html.

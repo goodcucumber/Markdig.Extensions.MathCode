@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6wShTs6COqr0kqVZzBUWTxucEfgUk4lMLmKHJPPPD55gC613l5bfhcx6AwNqjbmn7oO2eP7MU5rY8196eumdg==",
+  "success": true,
+  "projectFilePath": "D:\\lab\\wolframide\\mathcode\\Markdig.Extensions.MathCode\\Markdig.Extensions.MathCode\\Markdig.Extensions.MathCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sprite\\.nuget\\packages\\markdig\\0.26.0\\markdig.0.26.0.nupkg.sha512"
+  ],
+  "logs": []
+}

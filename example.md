@@ -1,4 +1,4 @@
-# MathDown Example
+# MathCode Example
 
 ## Do calculations with wolfram engine:
 
